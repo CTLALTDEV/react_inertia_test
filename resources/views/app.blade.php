@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{config('app.name')}}</title>
          @viteReactRefresh
-         @vite(['resources/js/app.js','resources/css/app.css'])
+         @vite(['resources/js/app.jsx','resources/css/app.css'])
          @inertiaHead
     </head>
     <body class="antialiased">
