@@ -1,0 +1,1 @@
+# React Inertia Test
